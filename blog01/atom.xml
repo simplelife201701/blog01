@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>簡</title>
+  
+  <link href="/blog01//blog01/atom.xml" rel="self"/>
+  <link href="/blog01/" rel="hub"/>
+  <link href="https://simplelife201701.github.io/blog01/"/>
+  <updated>2017-01-31T18:35:48.871Z</updated>
+  <id>https://simplelife201701.github.io/blog01/</id>
+  
+  <author>
+    <name>SimpleLife</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>demo001</title>
+    <link href="https://simplelife201701.github.io/blog01/2017/02/01/demo001/"/>
+    <id>https://simplelife201701.github.io/blog01/2017/02/01/demo001/</id>
+    <published>2017-01-31T18:03:04.000Z</published>
+    <updated>2017-01-31T18:35:48.871Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;A simple &lt;a href=&quot;http://asciidoc.org&quot; target=&quot;_blank&quot; rel=&quot;externa
+    
+    </summary>
+    
+    
+      <category term="demo" scheme="https://simplelife201701.github.io/blog01/tags/demo/"/>
+    
+      <category term="lab" scheme="https://simplelife201701.github.io/blog01/tags/lab/"/>
+    
+      <category term="images" scheme="https://simplelife201701.github.io/blog01/tags/images/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sample</title>
+    <link href="https://simplelife201701.github.io/blog01/2017/02/01/sample/"/>
+    <id>https://simplelife201701.github.io/blog01/2017/02/01/sample/</id>
+    <published>2017-01-31T17:25:00.000Z</published>
+    <updated>2017-01-31T18:36:11.874Z</updated>
+    
+    <summary type="html">
+    
+      &lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;A simple &lt;a href=&quot;http://asciidoc.org&quot; target=&quot;_blank&quot; rel=&quot;externa
+    
+    </summary>
+    
+    
+      <category term="sample" scheme="https://simplelife201701.github.io/blog01/tags/sample/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://simplelife201701.github.io/blog01/2017/01/31/hello-world/"/>
+    <id>https://simplelife201701.github.io/blog01/2017/01/31/hello-world/</id>
+    <published>2017-01-31T15:59:00.000Z</published>
+    <updated>2017-01-31T17:26:13.941Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
